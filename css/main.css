@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0 auto;
+	font-family: 'roboto', sans-serif;
+}
+
+h1{
+	padding-top: 10px;	
+	font-weight: 800;
+}
+h2{
+	padding: 10px 0;
+}
+h4{
+	padding: 10px 0;
+}
+
+header {
+	padding-left: 1.04166666%;
+	width: 100%;
+	background-color: #F0BD35;
+}
+
+main {
+  padding-top: 30px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box{
+	height: 100%;
+	background-color: #fff;
+	box-shadow: 0px 1px 2px rgba(0,0,0, .2);
+	margin-bottom: 20px;
+}
+.box img {
+	width: 100%;
+}
+.box-msg {
+	padding: 20px;
+}
